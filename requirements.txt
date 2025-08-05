@@ -34,7 +34,7 @@ wheel
 ujson
 wget
 pytz
-
+paython:3.10.8
 
 
 
